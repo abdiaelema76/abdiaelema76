@@ -1,6 +1,6 @@
 - Hey!👋 i,m Abdia Elema
 - Currently:BScIT student at KCA university and frontend developer looking forward to solve real world problems
-- I’m interested in web development
+- I’m interested in software engineering.
 -  I’m currently learning javascript
 - I’m looking to collaborate on ...
 - How to reach me gababoabdiaelema@gmail.com.
