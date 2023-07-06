@@ -10,6 +10,6 @@
 
 🌎 When I'm not coding, you can find me exploring the great outdoors, watching movies, or losing myself in a captivating sci-fi novel.
 
-📬 Feel free to reach out to me via email at gababoabdiaelema@gmail.com or connect with me on LinkedIn at https://www.linkedin.com/in/abdia-elema-8b5a06248/. Let's connect, share ideas, and make a difference together!
+📬 Feel free to reach out to me via email at gababoabdiaelema@gmail.com or connect with me on LinkedIn at <a href ="https://www.linkedin.com/in/abdia-elema-8b5a06248/" taget="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Abdia Elema" height="30" width="40" /></a>. Let's connect, share ideas, and make a difference together!
 
 
