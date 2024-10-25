@@ -1,4 +1,4 @@
-```markdown
+
 👋 Hi, I'm Abdia Elema! I’m a Software Engineer currently exploring AI, particularly Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) technologies, to deepen my expertise in the tech industry.
 
 ## About Me
@@ -26,4 +26,4 @@ With a background in software engineering and experience across full-stack and b
 - 📫 [Email](mailto:gababoabdiaelema@gmail.com)
 
 I’m excited to connect with others working on impactful projects at the intersection of technology and innovation. Let’s collaborate! 🌍
-```
+
