@@ -1,15 +1,14 @@
 
-👋 Hi, I'm Abdia Elema! I’m a Software Engineer currently exploring AI, particularly Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) technologies, to deepen my expertise in the tech industry.
-
+👋 Hi, I'm Abdia Elema! I’m a Software Engineer currently exploring generative AI and machine learning to expand my expertise and impact in the tech industry.
 ## About Me
-With a background in software engineering and experience across full-stack and backend development, I’m passionate about creating impactful tech solutions that solve real-world problems. My focus is on building user-centered applications and leveraging AI to optimize performance and functionality.
+With a foundation in software engineering and a keen interest in AI, I’m dedicated to building solutions that enhance user experience and solve complex problems. My current focus is on generative AI and machine learning, particularly in developing applications that leverage these technologies for innovation.
 
 ## Technical Skills 🛠️
 - **Languages:** JavaScript, Python, PHP
 - **Frameworks & Libraries:** React, Node.js, FastAPI
 - **Backend Development:** SQL, Laravel, PHP, Prisma
 - **AI & Machine Learning:** Large Language Models (LLMs), Retrieval-Augmented Generation (RAG)
-- **Tools & Platforms:** GitHub, Docker, cPanel, WordPress, MySQL
+- **Tools & Platforms:** GitHub, Docker, WordPress, MySQL
 
 ## Key Projects 📚
 - **[Beautyline Cosmetics Platform]:** Developed an e-commerce platform with real-time order tracking, efficient inventory management, and a user-friendly UI.
