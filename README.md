@@ -1,22 +1,29 @@
-<h1 align="center">Hi 👋, I'm Abdia Elema</h1>
-<h3 align="center">A passionate software engineer with a love for building innovative solutions and solving complex problems.</h3>
-<h3 align="center">💻 I have a strong background in software development and a deep understanding of various programming languages, including [Python, Java, Javascript, HTML, CSS, and Android SDK]. I enjoy working on projects that challenge me to think outside the box and push the boundaries of what's possible.</h3>
-<h3 align="center">🚀 As an enthusiastic learner, I constantly strive to stay updated with the latest technologies and industry trends. I enjoy exploring new frameworks, libraries, and tools to enhance my development workflow and deliver robust, efficient, and scalable software solutions.</h3>
-<h3 align="center">📚 Apart from coding, I'm also passionate about sharing knowledge and empowering others. You can often find me writing technical articles on my blog or participating in tech communities, where I engage in discussions, offer mentorship, and provide assistance to fellow developers..</h3>
-<h3 align="center">👥 Collaboration is key in my work. I strongly believe in the power of teamwork and open communication. I'm always eager to collaborate with like-minded individuals, exchange ideas, and contribute to meaningful projects that have a positive impact.</h3>
-<h3 align="center"> When I'm not coding, you can find me exploring the great outdoors, watching movies, or losing myself in a captivating sci-fi novel.</h3>
+```markdown
+👋 Hi, I'm Abdia Elema! I’m a Software Engineer currently exploring AI, particularly Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) technologies, to deepen my expertise in the tech industry.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abdia elema" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdia elema" height="30" width="40" /></a>
-<a href="https://hashnode.com/abdia elema" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="abdia elema" height="30" width="40" /></a>
-</p>
+## About Me
+With a background in software engineering and experience across full-stack and backend development, I’m passionate about creating impactful tech solutions that solve real-world problems. My focus is on building user-centered applications and leveraging AI to optimize performance and functionality.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+## Technical Skills 🛠️
+- **Languages:** JavaScript, Python, PHP
+- **Frameworks & Libraries:** React, Node.js, FastAPI
+- **Backend Development:** SQL, Laravel, PHP, Prisma
+- **AI & Machine Learning:** Large Language Models (LLMs), Retrieval-Augmented Generation (RAG)
+- **Tools & Platforms:** GitHub, Docker, cPanel, WordPress, MySQL
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdiaelema76&show_icons=true&locale=en&layout=compact" alt="abdiaelema76" /></p>
+## Key Projects 📚
+- **[Beautyline Cosmetics Platform]:** Developed an e-commerce platform with real-time order tracking, efficient inventory management, and a user-friendly UI.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdiaelema76&show_icons=true&locale=en" alt="abdiaelema76" /></p>
+## Leadership & Volunteering 🌟
+- **Learning Ambassador at ALX Africa:** Guided learners in understanding technical concepts, facilitated group discussions, and increased engagement through real-world examples and interactive learning.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdiaelema76&" alt="abdiaelema76" /></p>
+## Professional Goals 🚀
+- **Career Development:** Aiming to advance my expertise in software development and AI, with a focus on backend engineering and scalable AI solutions.
+- **Continuous Learning:** Committed to staying updated on tech innovations and enhancing my skills in both AI and full-stack development. 📈
+
+## Connect with Me 📬
+- 🔗 [LinkedIn](https://linkedin.com/in/abdiaelema)
+- 📫 [Email](mailto:gababoabdiaelema@gmail.com)
+
+I’m excited to connect with others working on impactful projects at the intersection of technology and innovation. Let’s collaborate! 🌍
+```
