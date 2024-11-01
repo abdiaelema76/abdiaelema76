@@ -24,7 +24,7 @@ With a foundation in software engineering and a keen interest in AI, I’m dedic
 - 🔗 [LinkedIn](https://linkedin.com/in/abdiaelema)
 - 📫 [Email](mailto:gababoabdiaelema@gmail.com)
 
-I’m excited to connect with others working on impactful projects at the intersection of technology and innovation. Let’s collaborate! 🌍
+## I’m excited to connect with others working on impactful projects at the intersection of technology and innovation. Let’s collaborate! 🌍
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdiaelema76&show_icons=true&locale=en&layout=compact" alt="abdiaelema76" /></p>
