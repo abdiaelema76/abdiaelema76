@@ -21,7 +21,7 @@ With a foundation in software engineering and a keen interest in AI, I’m dedic
 - **Continuous Learning:** Committed to staying updated on tech innovations and enhancing my skills in both AI and full-stack development. 📈
 
 ## Connect with Me 📬
-- 🔗 [LinkedIn](https://linkedin.com/in/abdiaelema)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/abdia-elema-8b5a06248/)
 - 📫 [Email](mailto:gababoabdiaelema@gmail.com)
 
 ## I’m excited to connect with others working on impactful projects at the intersection of technology and innovation. Let’s collaborate! 🌍
